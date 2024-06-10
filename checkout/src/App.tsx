@@ -18,13 +18,10 @@ function App() {
 
       <div className="row">
         <a>
-          <img src="/vite.svg" className="logo vite" alt="Vite logo" />
+          <img src="/checkout/public/33308.png" className="logo vite" alt="Vite logo" />
         </a>
         <a>
-          <img src="/tauri.svg" className="logo tauri" alt="Tauri logo" />
-        </a>
-        <a>
-          <img src={reactLogo} className="logo react" alt="React logo" />
+          <img src="./checkout/public/4295.png" className="logo tauri" alt="Tauri logo" />
         </a>
       </div>
     </div>
