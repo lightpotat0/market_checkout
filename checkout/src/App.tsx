@@ -14,16 +14,16 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Welcome to Tauri!</h1>
+      <img className="market" src="../public/app-icon.png" />
 
       <div className="row">
-        <a href="https://vitejs.dev" target="_blank">
+        <a href="https://vitejs.dev">
           <img src="/vite.svg" className="logo vite" alt="Vite logo" />
         </a>
-        <a href="https://tauri.app" target="_blank">
+        <a href="https://tauri.app">
           <img src="/tauri.svg" className="logo tauri" alt="Tauri logo" />
         </a>
-        <a href="https://reactjs.org" target="_blank">
+        <a href="https://reactjs.org">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
