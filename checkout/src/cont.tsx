@@ -1,14 +1,14 @@
 import Seta from '../public/1216.png';
 
-function nav() {
+function Nav() {
   return (
     <nav>
         <Seta />
         <div className="container">
-        
+            yiffjkfjkfk
         </div>
     </nav>
   );
 }
 
-export default nav;
+export default Nav;
