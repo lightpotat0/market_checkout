@@ -17,11 +17,13 @@ function App() {
       <img className="market" src="../public/app-icon.png" />
 
       <div className="row">
-        <a>
-          <img src="/checkout/public/33308.png" className="logo vite" alt="Vite logo" />
+        <a href="./html/contas.html">
+          <img className="pessoas" src="../public/33308.png" alt="pessoas" />
+          <h1>Pessoas</h1>
         </a>
         <a>
-          <img src="./checkout/public/4295.png" className="logo tauri" alt="Tauri logo" />
+          <img className="estoque" src="../public/4295.png" alt="estoque" />
+          <h1>Estoque</h1>
         </a>
       </div>
     </div>

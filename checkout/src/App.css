@@ -1,10 +1,7 @@
-.logo.vite:hover {
-  filter: drop-shadow(0 0 2em #747bff);
+.estoque:hover {
+  filter: drop-shadow(0 0 2em #060f99);
 }
 
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafb);
-}
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
   font-size: 16px;
@@ -37,23 +34,31 @@
   transition: 0.75s;
 }
 
-.logo.tauri:hover {
+.pessoas:hover {
   filter: drop-shadow(0 0 2em #24c8db);
 }
 
 .row {
-  display: flex;
+  display: inline-flex;
   margin-left: auto;
   margin-right: auto;
   background-color: rgb(194, 194, 8);
   width: 500px;
-  height: 300px;
+  height: 200px;
+  justify-content: center;
+  align-items: center;
+}
+
+.row img{
+  width: 100px;
+  height: auto;
 }
 
 a {
   font-weight: 500;
   color: #646cff;
   text-decoration: inherit;
+  margin: 10%;
 }
 
 a:hover {
@@ -62,6 +67,7 @@ a:hover {
 
 h1 {
   text-align: center;
+  font-size: 1em;
 }
 
 input,
