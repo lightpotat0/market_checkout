@@ -59,6 +59,7 @@ a {
   color: #646cff;
   text-decoration: inherit;
   margin: 10%;
+  cursor: pointer;
 }
 
 a:hover {

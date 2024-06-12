@@ -1,5 +1,5 @@
 import Seta from '../public/1216.png';
-
+   
 function Nav() {
   return (
     <nav>
