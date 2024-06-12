@@ -1,9 +1,8 @@
-import Seta from '../public/1216.png';
+import "./css/cont.css"
    
 function Nav() {
   return (
     <nav>
-        <Seta />
         <div className="container">
             yiffjkfjkfk
         </div>
