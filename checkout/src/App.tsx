@@ -7,7 +7,7 @@ function App() {
       <img className="market" src="../public/app-icon.png" />
 
       <div className="row">
-        <a href="../src/html/contas.html">
+        <a href="../src/js/contas.tsx">
           <img className="pessoas" src="../public/33308.png" alt="pessoas" />
           <h1>Pessoas</h1>
         </a>
