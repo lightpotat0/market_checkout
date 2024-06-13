@@ -4,6 +4,7 @@ function Nav() {
     return(
         <nav>
             <img src="/checkout/public/1216.png"/>
+            <h1>Contas</h1>
         </nav>
     )
 }
